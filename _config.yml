@@ -20,7 +20,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://AParent-life.com" # the base hostname & protocol for your site
 twitter: 
 SnapChat:  AParentLife
-FaceBook: @AParentLife
+FaceBook: 
 
 # Build settings
 markdown: kramdown
